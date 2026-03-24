@@ -1,0 +1,17 @@
+Slack Custom Sidebar Theme - Gruvbox Dark Hard (High Contrast)
+
+Paste this in Slack → Settings → Themes → Custom Theme:
+
+#1a1b1d,#131415,#e9a825,#f2e5c7,#282828,#f2e5c7,#a5d6a7,#ff5f52,#1a1b1d,#bdae93
+
+Colors:
+  Sidebar bg:      #1a1b1d
+  Hover:           #131415
+  Active item:     #e9a825
+  Text:            #f2e5c7
+  Top nav:         #282828
+  Links:           #f2e5c7
+  Badge:           #a5d6a7
+  Badge text:      #ff5f52
+  Sidebar border:  #1a1b1d
+  Muted text:      #bdae93
