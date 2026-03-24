@@ -1,0 +1,24 @@
+name: Gruvbox Dark Hard
+accent: '#e9a825'
+background: '#1a1b1d'
+details: darker
+foreground: '#f2e5c7'
+terminal_colors:
+  bright:
+    black: '#a89984'
+    blue: '#9dc2ba'
+    cyan: '#a5d6a7'
+    green: '#c9cc3c'
+    magenta: '#e0a0b5'
+    red: '#ff5f52'
+    white: '#f2e5c7'
+    yellow: '#ffc93c'
+  normal:
+    black: '#282828'
+    blue: '#5d9ea3'
+    cyan: '#7bb07e'
+    green: '#a9a824'
+    magenta: '#c47298'
+    red: '#dc3522'
+    white: '#bdae93'
+    yellow: '#e9a825'
