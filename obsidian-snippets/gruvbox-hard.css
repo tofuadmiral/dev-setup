@@ -1,0 +1,9 @@
+/* Gruvbox Dark Hard — override background to match Warp terminal */
+.theme-dark {
+  --background-primary: #1d2021;
+  --background-primary-alt: #1d2021;
+  --background-secondary: #282828;
+  --background-secondary-alt: #282828;
+  --background-modifier-border: #3c3836;
+  --background-modifier-hover: #282828;
+}
