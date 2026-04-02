@@ -1,0 +1,32 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(*)",
+      "Edit(*)",
+      "Write(*)",
+      "Read(*)",
+      "Glob(*)",
+      "Grep(*)",
+      "WebFetch(*)",
+      "WebSearch(*)",
+      "Task(*)",
+      "Skill(*)"
+    ],
+    "deny": []
+  },
+  "model": "opus",
+  "extraKnownMarketplaces": {
+    "Arize-ai-arize-skills": {
+      "source": {
+        "source": "github",
+        "repo": "Arize-ai/arize-skills"
+      }
+    }
+  },
+  "effortLevel": "medium",
+  "skipDangerousModePermissionPrompt": true,
+  "statusLine": {
+    "type": "command",
+    "command": "bash /Users/fali/.claude/statusline-command.sh"
+  }
+}
